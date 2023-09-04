@@ -3,7 +3,7 @@
 Perkenalkan saya adalah **Jonathan Malewa**
 
 Saya adalah lulusan **Teknik Informatika** dari *Universitas Mulawarman*
-Saya Sekarang sedang mengembangkan kemampuan saya dalam bidang web devloper by [dicoding](https://www.dicoding.com/)
+Saya Sekarang sedang mengembangkan kemampuan saya dalam bidang web devloper
 Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
 
 ***Terima Kasih***
