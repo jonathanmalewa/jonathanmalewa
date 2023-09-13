@@ -15,7 +15,9 @@
   </a>
 </div>
 
+---
 
+### :man_technologist: About Me :
 
 Perkenalkan saya adalah **Jonathan Malewa**
 
