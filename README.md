@@ -47,12 +47,8 @@ Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
 ### :fire: My Stats :
 
 <p align="left">
-<a href="https://github.com/jonathanmalewa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonathanmalewa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathanmalewa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmalewa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ***Terima Kasih***
 <!--
