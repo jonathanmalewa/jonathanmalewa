@@ -41,6 +41,7 @@ Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 
 <p align="left">
