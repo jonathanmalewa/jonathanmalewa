@@ -22,6 +22,8 @@ Perkenalkan saya adalah **Jonathan Malewa**
 Saya adalah lulusan **Teknik Informatika** dari *Universitas Mulawarman*
 Saya Sekarang sedang mengembangkan kemampuan saya dalam bidang web devloper
 Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,7 +41,7 @@ Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-***Terima Kasih***
+
 
 <p align="left">
 <a href="https://github.com/jonathanmalewa">
@@ -48,6 +50,8 @@ Semua Project saya selama belajar akan saya upload di akun GitHub Saya.
 </a>
 </p>
 
+
+***Terima Kasih***
 <!--
 **jonathanmalewa/jonathanmalewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
